@@ -1,1 +1,4 @@
-s
+Sunday
+Monday
+Tuesday
+Thursday
