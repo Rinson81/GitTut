@@ -1,2 +1,7 @@
+Sunday
+Monday
+Tuesday
+Thursday
+=======
 s
 Added from Master
